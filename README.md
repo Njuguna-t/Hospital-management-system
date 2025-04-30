@@ -1,5 +1,5 @@
 # hospital-management-schema.drawio.svg
-This repository contains the Entity Relationship Diagram (ERD) for a hospital management database. The ERD outlines the relationships between key entities like Patients, Doctors, Appointments, and Visits. Designed for educational purposes to demonstrate database schema planning
+This repository contains the Entity Relationship Diagram (ERD) for a hospital management database. The ERD outlines the relationships between key entities like Patients, Doctors, Appointments, Visits, Prescriptions, Medical records, Department, Staff, Billing & Rooms. Designed for educational purposes to demonstrate database schema planning
 ## **Schema Overview**  
 ### Key Tables  
 1. **Patients**: Core patient data.  
